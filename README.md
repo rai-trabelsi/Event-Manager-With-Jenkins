@@ -28,6 +28,7 @@ Security Scanning: Trivy
 Version Control: GitHub
 
 ▶️ How to Run
+
 Prerequisites
 Jenkins installed with:
 Pipeline plugin
